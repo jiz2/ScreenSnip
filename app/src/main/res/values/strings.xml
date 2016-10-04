@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreenSnip</string>
+    <string name="bCapture">Capture</string>
+    <string name="bCancel">X</string>
+    <string name="titleEdit">Edit Mode</string>
+</resources>
