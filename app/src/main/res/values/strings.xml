@@ -3,4 +3,5 @@
     <string name="bCapture">Capture</string>
     <string name="bCancel">X</string>
     <string name="titleEdit">Edit Mode</string>
+    <string name="screenshotDescription">This is the captured screen to be snipped.</string>
 </resources>
